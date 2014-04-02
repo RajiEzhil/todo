@@ -60,3 +60,6 @@ end
 group :development, :test do
 
 end
+
+gem 'site24x7_apminsight'
+
